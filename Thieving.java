@@ -19,7 +19,7 @@ import java.util.List;
 
 @Script.Manifest(name = "thiev", description = "robbin hood")
 
-public class LumbyMan extends PollingScript<ClientContext> implements MessageListener, PaintListener {
+public class Thieving extends PollingScript<ClientContext> implements MessageListener, PaintListener {
 	private int[] manIds = {3078, 3080, 3087, 3257}; //245
 	int silkId = 11729;
 	int silk = 950;

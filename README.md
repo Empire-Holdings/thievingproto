@@ -9,4 +9,4 @@ Supports:
   - Silk Stall (Ardougne, the north one)
   - Nature Chest (Ardougne, upstairs)
   - Eating Food (Lobster only)
-  - Banking For Food (Draynor & Ardougne Silk Stall)
+  - Banking For Food (Draynor Master Farmer & Ardougne Silk Stall)
